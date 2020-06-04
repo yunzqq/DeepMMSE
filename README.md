@@ -1,5 +1,5 @@
 # DeepMMSE
-Deep Xi is proposed in [1] and [2], and Deep Xi-TCN is proposed in [2] to improve the MMSE-based Noise PSD Estimation.
+Deep Xi is proposed in [1] (https://doi.org/10.1016/j.specom.2019.06.002) and [2](https://ieeexplore.ieee.org/document/9066933), and Deep Xi-TCN model is proposed in [2] to improve the MMSE-based Noise PSD Estimation.
 
 DeepMMSE: A Deep Learning Approach to MMSE-based Noise Power Spectral Density Estimation
 
